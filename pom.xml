@@ -21,6 +21,7 @@
         <module>affable-bean-ui</module>
         <module>payment-gateway</module>
         <module>transportation-service</module>
+        <module>api-security</module>
     </modules>
 
     <dependencyManagement>
